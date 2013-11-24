@@ -13,3 +13,8 @@ javascript /
 php /
 - rscode (Reed–Solomon error correction PHP版本的实现)
 - wave (音频流生成器, PHP版本的实现)
+
+
+
+
+[![](http://service.t.sina.com.cn/widget/qmd/1656360925/02781ba4/4.png)](http://weibo.com/smcz)
