@@ -14,6 +14,9 @@ php /
 - rscode (Reed–Solomon error correction PHP版本的实现)
 - wave (音频流生成器, PHP版本的实现)
 
+objc /
+- PCMRender (音频流生成器, Objective-C版本的实现)
+
 
 
 
